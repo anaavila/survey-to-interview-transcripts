@@ -1,0 +1,34 @@
+Interview transcript
+
+Name: Participant 3
+
+Situation: 
+
+[UX Researcher] Timestamp
+
+[Participant 3] 2021/11/01 12:27:16 PM MDT
+
+[UX Researcher] Tell me about yourself?
+
+[Participant 3] I am a college student in my first year.
+
+[UX Researcher] What is or was your favorite class at school?
+
+[Participant 3] My favorite class is Chemistry.
+
+[UX Researcher] What is your favorite movie?
+
+[Participant 3] My favorite movie is Lorem Ipsum.
+
+[UX Researcher] What is your favorite season?
+
+[Participant 3] My favorite season is Winter because of the rain and snow.
+
+[UX Researcher] What is your age range?
+
+[Participant 3] 19-24
+
+[UX Researcher] What is your favorite sport?
+
+[Participant 3] My favorite sport is Basketball
+
