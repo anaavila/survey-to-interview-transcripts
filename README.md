@@ -1,6 +1,6 @@
 # survey-to-interview-transcripts
 
-Reads a SCV file of a survey and writes a file per entry in a format of an interview transcript.
+Reads a CSV file of a survey and writes a file per entry in a format of an interview transcript.
 On this example ‘survey.csv’ is the file with 5 entry forms of a survey, and in the folder ‘transcripts’
 the 5 files are written in an interview transcript format.
 
